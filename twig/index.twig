@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Hollow Knight Completionist Checklist</title>
+	<meta name="description" content="A 112% completion checklist for the game Hollow Knight">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+
+	<link rel="stylesheet" type="text/css" href="css/app.css?v=10">
+
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
+	<meta name="application-name" content="&nbsp;"/>
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+	<meta property="og:title" content="Hollow Knight Completionist Checklist">
+    <meta property="og:description" content="A 112% completion checklist for the game Hollow Knight">
+    <meta property="og:image" content="https://hollowknightchecklist.com/img/social-card.png">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="640">
+    <meta property="og:url" content="https://hollowknightchecklist.com/">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <meta property="og:site_name" content="Hollow Knight Completionist Checklist">
+    <meta name="twitter:image:alt" content="Hollow Knight Completionist Checklist">
+
+</head>
+<body>
+	<div id="cookieAlert">We serve cookies on this site to remember your progress.  <a href="#" id="hideCookieAlert">Hide this message</a></div>
+	<div class="container">
+		<h1>
+			<img src="img/hollow_knight_title_white.png" alt="Hollow Knight">
+			<br>
+			112% Completion Checklist
+		</h1>
+		<noscript>
+			<div id="noJsAlert">
+				<p>Looks like you have JavaScript disabled.  Your progress can't be saved until it's turned on.</p>
+			</div>
+		</noscript>
+		<div class="subtitle">
+			<p><span id="amountRemaining"></span> item(s) remaining. <span id="congrats">Great job!</span> <a href="#" id="uncheckAll">Uncheck all</a></p>
+			<div id="percent">
+				0% <small>done</small>
+			</div>
+		</div>
+		<div class="row">
+			<div class="column">
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Category:Bosses_(Hollow_Knight)">Bosses</a>', 'data': bosses, 'idKey': 'boss'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Dream_Nail">Dream Nail</a>', 'data': dream_nail, 'idKey': 'dream_nail'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Nail">Nail</a>', 'data': nail, 'idKey': 'nail'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Category%3ASpells_and_Abilities_(Hollow_Knight)#Nail_Arts">Nail Arts</a>', 'data': nail_arts, 'idKey': 'nail_art'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Category:Charms">Charms</a>', 'data': charms, 'idKey': 'charm'} %}
+			</div>
+			<div class="column">
+				{% include 'common_list.twig' with {'title': 'Equipment', 'data': equipment, 'idKey': 'equipment'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Category:Spells_and_Abilities_(Hollow_Knight)#Spells">Spells</a>', 'data': spells, 'idKey': 'spell'} %}
+				{% include 'description_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Mask_Shard">Mask Shards</a>', 'data': mask_shards, 'idKey': 'mask_shard'} %}
+				{% include 'description_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Vessel_Fragment">Vessel Fragments</a>', 'data': vessel_fragments, 'idKey': 'vessel_fragment'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Colosseum_of_Fools">Colosseum</a>', 'data': colosseum, 'idKey': 'colosseum'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Dreamers">Dreamers</a>', 'data': dreamers, 'idKey': 'dreamer'} %}
+				{% include 'common_list.twig' with {'title': '<a href="https://hollowknight.fandom.com/wiki/Godhome">Godhome</a>', 'data': godhome, 'idKey': 'godhome'} %}
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<p>This is an open-source project, <a href="https://github.com/nebulatron/hollow-knight-checklist">view the code on GitHub</a>.</p>
+		<br>
+		<p>Built and maintained by <a href="https://www.reddit.com/user/nebulatron">nebulatron</a> with data sourced from <a href="https://www.reddit.com/user/nebulatron">arson_cat</a>'s <a href="https://www.reddit.com/r/HollowKnight/comments/9a9es4/printable_completion_checklist_updated_and/">Printable Completion Checklist</a>.</p>
+		<p>Graphics sourced from <a href="https://www.vecteezy.com/free-vector/art-nouveau">Art Nouveau Vector by Vecteezy</a>, <a href="http://subtlepatterns.com">subtlepatterns.com</a>, and the <a href="https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki">Fandom Wiki</a>.</p>
+		<p>Much thanks to our testers, <a href="https://www.reddit.com/user/lebdrift">lebdrift</a>, <a href="https://twitter.com/Lukkke6">Lukkke6</a>, <a href="https://steamcommunity.com/profiles/76561198147270936">MrKingless</a>, <a href="http://steamcommunity.com/profiles/76561198060332902">NyappyCat</a>, and <a href="https://steamcommunity.com/profiles/76561197969566579">sheaduran</a>.</p>
+		<br>
+		<p>This is a fan project; we are not affiliated with <a href="https://teamcherry.com.au/">Team Cherry</a>.</p>
+		<p><a href="http://www.hollowknight.com/">Buy Hollow Knight</a>, it's pretty great.</p>
+	</footer>
+	
+	<script type="text/javascript" src="js/app.js?v=10"></script>
+</body>
+</html>

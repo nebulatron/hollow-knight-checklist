@@ -1,0 +1,31 @@
+{
+  "name": "hollow-knight",
+  "version": "1.0.0",
+  "description": "A website which provides visitors with a completion checklist for Hollow Knight.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp serve && gulp watch"
+  },
+  "keywords": [
+    "hollow",
+    "knight",
+    "completionist",
+    "checklist"
+  ],
+  "author": "nebulatron",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "file-system": "^2.2.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-twig": "^1.2.0",
+    "js-cookie": "^2.2.1",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {}
+}

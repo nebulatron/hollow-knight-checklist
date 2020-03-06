@@ -1,0 +1,11 @@
+<h2>{{ title }}</h2>
+<ul>
+	{% for key, value in data %}
+		<li>
+			<label class="checkboxLabel" for="item_{{ value.id }}">
+				<input type="checkbox" id="item_{{ value.id }}" data-key="{{ value.id }}" data-percent="{{ value.percent }}">
+			    <span>{{ value.description | replace({'[geo]': '<img src="img/icon-geo.png" alt="Geo" class="icon">', '[essence]': '<img src="img/icon-essence.png" alt="Essence" class="icon">'}) }}</span>
+			</label>
+		</li>
+	{% endfor %}
+</ul>
