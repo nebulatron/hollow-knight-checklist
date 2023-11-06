@@ -2,151 +2,151 @@
 	"bosses": {
 		"broken_vessel": {
 			"id": 1,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Broken_Vessel\">Broken Vessel</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Broken_Vessel\">Broken Vessel</a>",
 			"percent": 1
 		},
 		"brooding_mawlek": {
 			"id": 2,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Brooding_Mawlek\">Brooding Mawlek</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Brooding_Mawlek\">Brooding Mawlek</a>",
 			"percent": 1
 		},
 		"the_collector": {
 			"id": 3,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Collector\">The Collector</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Collector\">The Collector</a>",
 			"percent": 1
 		},
 		"dung_defender": {
 			"id": 4,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dung_Defender\">Dung Defender</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dung_Defender\">Dung Defender</a>",
 			"percent": 1
 		},
 		"false_knight": {
 			"id": 5,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/False_Knight\">False Knight</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/False_Knight\">False Knight</a>",
 			"percent": 1
 		},
 		"grimm": {
 			"id": 6,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Grimm\">Grimm</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Grimm\">Grimm</a>",
 			"percent": 1
 		},
 		"gruz_mother": {
 			"id": 7,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Gruz_Mother\">Gruz Mother</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Gruz_Mother\">Gruz Mother</a>",
 			"percent": 1
 		},
 		"hive_knight": {
 			"id": 8,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Hive_Knight\">Hive Knight</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Hive_Knight\">Hive Knight</a>",
 			"percent": 1
 		},
 		"hornet_greenpath": {
 			"id": 9,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Hornet_Protector\">Hornet (Greenpath)</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Hornet_Protector\">Hornet (Greenpath)</a>",
 			"percent": 1
 		},
 		"hornet_cast_off_shell": {
 			"id": 10,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Hornet_Sentinel\">Hornet (Cast-Off Shell)</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Hornet_Sentinel\">Hornet (Cast-Off Shell)</a>",
 			"percent": 1
 		},
 		"mantis_lords": {
 			"id": 11,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Mantis_Lords\">Mantis Lords</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Mantis_Lords\">Mantis Lords</a>",
 			"percent": 1
 		},
 		"nosk": {
 			"id": 12,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Nosk\">Nosk</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Nosk\">Nosk</a>",
 			"percent": 1
 		},
 		"soul_master": {
 			"id": 13,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Soul_Master\">Soul Master</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Soul_Master\">Soul Master</a>",
 			"percent": 1
 		},
 		"traitor_lord": {
 			"id": 14,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Traitor_Lord\">Traitor Lord</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Traitor_Lord\">Traitor Lord</a>",
 			"percent": 1
 		},
 		"uumuu": {
 			"id": 15,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Uumuu\">Uumuu</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Uumuu\">Uumuu</a>",
 			"percent": 1
 		},
 		"watcher_knight": {
 			"id": 16,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Watcher_Knight\">Watcher Knight</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Watcher_Knight\">Watcher Knight</a>",
 			"percent": 1
 		}
 	},
 	"equipment": {
 		"mothwing_cloak": {
 			"id": 17,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Mothwing_Cloak\">Mothwing Cloak</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Mothwing_Cloak\">Mothwing Cloak</a>",
 			"percent": 2
 		},
 		"mantis_claw": {
 			"id": 18,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Mantis_Claw\">Mantis Claw</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Mantis_Claw\">Mantis Claw</a>",
 			"percent": 2
 		},
 		"crystal_heart": {
 			"id": 19,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Crystal_Heart\">Crystal Heart</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Crystal_Heart\">Crystal Heart</a>",
 			"percent": 2
 		},
 		"isma_s_tear": {
 			"id": 20,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Isma's_Tear\">Isma's Tear</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Isma's_Tear\">Isma's Tear</a>",
 			"percent": 2
 		},
 		"king_s_brand": {
 			"id": 21,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/King's_Brand\">King's Brand</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/King's_Brand\">King's Brand</a>",
 			"percent": 2
 		},
 		"monarch_wings": {
 			"id": 22,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Monarch_Wings\">Monarch Wings</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Monarch_Wings\">Monarch Wings</a>",
 			"percent": 2
 		},
 		"shade_cloak": {
 			"id": 23,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Shade_Cloak\">Shade Cloak</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Shade_Cloak\">Shade Cloak</a>",
 			"percent": 2
 		}
 	},
 	"spells": {
 		"vengeful_spirit": {
 			"id": 24,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Vengeful_Spirit\">Vengeful Spirit</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Vengeful_Spirit\">Vengeful Spirit</a>",
 			"percent": 1
 		},
 		"shade_soul": {
 			"id": 25,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Shade_Soul\">Shade Soul</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Shade_Soul\">Shade Soul</a>",
 			"percent": 1
 		},
 		"desolate_dive": {
 			"id": 26,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Desolate_Dive\">Desolate Dive</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Desolate_Dive\">Desolate Dive</a>",
 			"percent": 1
 		},
 		"descending_dark": {
 			"id": 27,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Descending_Dark\">Descending Dark</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Descending_Dark\">Descending Dark</a>",
 			"percent": 1
 		},
 		"howling_wraiths": {
 			"id": 28,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Howling_Wraiths\">Howling Wraiths</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Howling_Wraiths\">Howling Wraiths</a>",
 			"percent": 1
 		},
 		"abyss_shriek": {
 			"id": 29,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Abyss_Shriek\">Abyss Shriek</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Abyss_Shriek\">Abyss Shriek</a>",
 			"percent": 1
 		}
 	},
@@ -192,19 +192,19 @@
 	"nail_arts": {
 		"great_slash": {
 			"id": 37,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Great_Slash\">Great Slash</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Great_Slash\">Great Slash</a>",
 			"source": "Nailmaster Sheo",
 			"percent": 1
 		},
 		"dash_slash": {
 			"id": 38,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dash_Slash\">Dash Slash</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dash_Slash\">Dash Slash</a>",
 			"source": "Nailmaster Oro",
 			"percent": 1
 		},
 		"cyclone_slash": {
 			"id": 39,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Cyclone_Slash\">Cyclone Slash</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Cyclone_Slash\">Cyclone Slash</a>",
 			"source": "Nailmaster Mato",
 			"percent": 1
 		}
@@ -212,370 +212,370 @@
 	"vessel_fragments": [
 		{
 			"id": 40,
-			"description": "Bought from <a href=\"https://hollowknight.fandom.com/wiki/Sly\">Sly</a> in Dirtmouth for [geo]550",
+			"description": "Bought from <a href=\"https://hollowknight.wiki/w/Sly\">Sly</a> in Dirtmouth for [geo]550",
 			"percent": 0.3333333
 		},
 		{
 			"id": 41,
-			"description": "Bought from <a href=\"https://hollowknight.fandom.com/wiki/Sly\">Sly</a> in Dirtmouth for [geo]900",
+			"description": "Bought from <a href=\"https://hollowknight.wiki/w/Sly\">Sly</a> in Dirtmouth for [geo]900",
 			"percent": 0.3333333
 		},
 		{
 			"id": 42,
-			"description": "Found in <a href=\"https://hollowknight.fandom.com/wiki/Greenpath\">Greenpath</a> near the inaccessible <a href=\"https://hollowknight.fandom.com/wiki/Queen%27s_Gardens\">Queen's Gardens</a> entrance",
+			"description": "Found in <a href=\"https://hollowknight.wiki/w/Greenpath\">Greenpath</a> near the inaccessible <a href=\"https://hollowknight.wiki/w/Queen%27s_Gardens\">Queen's Gardens</a> entrance",
 			"percent": 0.3333333
 		},
 		{
 			"id": 43,
-			"description": "Left of the lift in <a href=\"https://hollowknight.fandom.com/wiki/Forgotten_Crossroads\">Forgotten Crossroads</a>",
+			"description": "Left of the lift in <a href=\"https://hollowknight.wiki/w/Forgotten_Crossroads\">Forgotten Crossroads</a>",
 			"percent": 0.3333333
 		},
 		{
 			"id": 44,
-			"description": "Found above <a href=\"https://hollowknight.fandom.com/wiki/City_of_Tears#Sub-area:_King.27s_Station\">King's Station</a> near a lift",
+			"description": "Found above <a href=\"https://hollowknight.wiki/w/City_of_Tears#Sub-area:_King.27s_Station\">King's Station</a> near a lift",
 			"percent": 0.3333333
 		},
 		{
 			"id": 45,
-			"description": "Found in <a href=\"https://hollowknight.fandom.com/wiki/Deepnest\">Deepnest</a> above the working tram",
+			"description": "Found in <a href=\"https://hollowknight.wiki/w/Deepnest\">Deepnest</a> above the working tram",
 			"percent": 0.3333333
 		},
 		{
 			"id": 46,
-			"description": "Found at the end of <a href=\"https://hollowknight.fandom.com/wiki/Howling_Cliffs#Sub-area:_Stag_Nest\">Stag Nest</a>",
+			"description": "Found at the end of <a href=\"https://hollowknight.wiki/w/Howling_Cliffs#Sub-area:_Stag_Nest\">Stag Nest</a>",
 			"percent": 0.3333333
 		},
 		{
 			"id": 47,
-			"description": "Given by the <a href=\"https://hollowknight.fandom.com/wiki/Seer\">Seer</a> for [essence]700",
+			"description": "Given by the <a href=\"https://hollowknight.wiki/w/Seer\">Seer</a> for [essence]700",
 			"percent": 0.3333333
 		},
 		{
 			"id": 48,
-			"description": "Found in the fountain in <a href=\"https://hollowknight.fandom.com/wiki/Ancient_Basin\">Ancient Basin</a> for [geo]3000",
+			"description": "Found in the fountain in <a href=\"https://hollowknight.wiki/w/Ancient_Basin\">Ancient Basin</a> for [geo]3000",
 			"percent": 0.3333333
 		}
 	],
 	"mask_shards": [
 		{
 			"id": 49,
-			"description": "Bought from <a href=\"https://hollowknight.fandom.com/wiki/Sly\">Sly</a> in Dirtmouth for [geo]150",
+			"description": "Bought from <a href=\"https://hollowknight.wiki/w/Sly\">Sly</a> in Dirtmouth for [geo]150",
 			"percent": 0.25
 		},
 		{
 			"id": 50,
-			"description": "Bought from <a href=\"https://hollowknight.fandom.com/wiki/Sly\">Sly</a> in Dirtmouth for [geo]500",
+			"description": "Bought from <a href=\"https://hollowknight.wiki/w/Sly\">Sly</a> in Dirtmouth for [geo]500",
 			"percent": 0.25
 		},
 		{
 			"id": 51,
-			"description": "Bought from <a href=\"https://hollowknight.fandom.com/wiki/Sly\">Sly</a> in Dirtmouth for [geo]800",
+			"description": "Bought from <a href=\"https://hollowknight.wiki/w/Sly\">Sly</a> in Dirtmouth for [geo]800",
 			"percent": 0.25
 		},
 		{
 			"id": 52,
-			"description": "Bought from <a href=\"https://hollowknight.fandom.com/wiki/Sly\">Sly</a> in Dirtmouth for [geo]1500",
+			"description": "Bought from <a href=\"https://hollowknight.wiki/w/Sly\">Sly</a> in Dirtmouth for [geo]1500",
 			"percent": 0.25
 		},
 		{
 			"id": 53,
-			"description": "Defeating <a href=\"https://hollowknight.fandom.com/wiki/Brooding_Mawlek\">Brooding Mawleck</a> far West of the <a href=\"https://hollowknight.fandom.com/wiki/Forgotten_Crossroads\">Forgotten Crossroads</a>",
+			"description": "Defeating <a href=\"https://hollowknight.wiki/w/Brooding_Mawlek\">Brooding Mawleck</a> far West of the <a href=\"https://hollowknight.wiki/w/Forgotten_Crossroads\">Forgotten Crossroads</a>",
 			"percent": 0.25
 		},
 		{
 			"id": 54,
-			"description": "Given by <a href=\"https://hollowknight.fandom.com/wiki/Grubfather\">Grubfather</a> after rescuing 5 grubs",
+			"description": "Given by <a href=\"https://hollowknight.wiki/w/Grubfather\">Grubfather</a> after rescuing 5 grubs",
 			"percent": 0.25
 		},
 		{
 			"id": 55,
-			"description": " <a href=\"https://hollowknight.fandom.com/wiki/Forgotten_Crossroads\">Forgotten Crossroads</a> South of <a href=\"https://hollowknight.fandom.com/wiki/False_Knight\">False Knight</a> (where there are <a href=\"https://hollowknight.fandom.com/wiki/Goam\">Goams</a>)",
+			"description": " <a href=\"https://hollowknight.wiki/w/Forgotten_Crossroads\">Forgotten Crossroads</a> South of <a href=\"https://hollowknight.wiki/w/False_Knight\">False Knight</a> (where there are <a href=\"https://hollowknight.wiki/w/Goam\">Goams</a>)",
 			"percent": 0.25
 		},
 		{
 			"id": 56,
-			"description": "In <a href=\"https://hollowknight.fandom.com/wiki/Fungal_Wastes#Sub-area:_Queen.27s_Station_.C2.A0\">Queen's Station</a>, near East side",
+			"description": "In <a href=\"https://hollowknight.wiki/w/Fungal_Wastes#Sub-area:_Queen.27s_Station_.C2.A0\">Queen's Station</a>, near East side",
 			"percent": 0.25
 		},
 		{
 			"id": 57,
-			"description": "Found in <a href=\"https://hollowknight.fandom.com/wiki/Bretta\">Bretta</a>'s house in Dirtmouth",
+			"description": "Found in <a href=\"https://hollowknight.wiki/w/Bretta\">Bretta</a>'s house in Dirtmouth",
 			"percent": 0.25
 		},
 		{
 			"id": 58,
-			"description": "Found in <a href=\"https://hollowknight.fandom.com/wiki/Greenpath#Sub-area:_Stone_Sanctuary\">Stone Sanctuary</a> in <a href=\"https://hollowknight.fandom.com/wiki/Greenpath\">Greenpath</a>",
+			"description": "Found in <a href=\"https://hollowknight.wiki/w/Greenpath#Sub-area:_Stone_Sanctuary\">Stone Sanctuary</a> in <a href=\"https://hollowknight.wiki/w/Greenpath\">Greenpath</a>",
 			"percent": 0.25
 		},
 		{
 			"id": 59,
-			"description": "<a href=\"https://hollowknight.fandom.com/wiki/Royal_Waterways\">Royal Waterways</a> NW section, swim left under main path",
+			"description": "<a href=\"https://hollowknight.wiki/w/Royal_Waterways\">Royal Waterways</a> NW section, swim left under main path",
 			"percent": 0.25
 		},
 		{
 			"id": 60,
-			"description": "Found in <a href=\"https://hollowknight.fandom.com/wiki/Deepnest\">Deepnest</a> through <a href=\"https://hollowknight.fandom.com/wiki/Fungal_Wastes#Sub-area:_Fungal_Core\">Fungal Core</a>, near <a href=\"https://hollowknight.fandom.com/wiki/Mantis_Lords\">Mantis Lords</a>",
+			"description": "Found in <a href=\"https://hollowknight.wiki/w/Deepnest\">Deepnest</a> through <a href=\"https://hollowknight.wiki/w/Fungal_Wastes#Sub-area:_Fungal_Core\">Fungal Core</a>, near <a href=\"https://hollowknight.wiki/w/Mantis_Lords\">Mantis Lords</a>",
 			"percent": 0.25
 		},
 		{
 			"id": 61,
-			"description": "Reward from <a href=\"https://hollowknight.fandom.com/wiki/Enraged_Guardian\">Enraged Guardian</a>",
+			"description": "Reward from <a href=\"https://hollowknight.wiki/w/Enraged_Guardian\">Enraged Guardian</a>",
 			"percent": 0.25
 		},
 		{
 			"id": 62,
-			"description": "Found behind a wall in <a href=\"https://hollowknight.fandom.com/wiki/Hive\">The Hive</a>",
+			"description": "Found behind a wall in <a href=\"https://hollowknight.wiki/w/Hive\">The Hive</a>",
 			"percent": 0.25
 		},
 		{
 			"id": 63,
-			"description": "Given by the <a href=\"https://hollowknight.fandom.com/wiki/Seer\">Seer</a> for [essence]1500",
+			"description": "Given by the <a href=\"https://hollowknight.wiki/w/Seer\">Seer</a> for [essence]1500",
 			"percent": 0.25
 		},
 		{
 			"id": 64,
-			"description": "Given by <a href=\"https://hollowknight.fandom.com/wiki/Grey_Mourner\">Grey Mourner</a> in <a href=\"https://hollowknight.fandom.com/wiki/Resting_Grounds\">Resting Grounds</a>",
+			"description": "Given by <a href=\"https://hollowknight.wiki/w/Grey_Mourner\">Grey Mourner</a> in <a href=\"https://hollowknight.wiki/w/Resting_Grounds\">Resting Grounds</a>",
 			"percent": 0.25
 		}
 	],
 	"charms": {
 		"wayward_compass": {
 			"id": 65,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Wayward_Compass\">Wayward Compass</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Wayward_Compass\">Wayward Compass</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"gathering_swarm": {
 			"id": 66,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Gathering_Swarm\">Gathering Swarm</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Gathering_Swarm\">Gathering Swarm</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"stalwart_shell": {
 			"id": 67,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Stalwart_Shell\">Stalwart Shell</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Stalwart_Shell\">Stalwart Shell</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"soul_catcher": {
 			"id": 68,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Soul_Catcher\">Soul Catcher</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Soul_Catcher\">Soul Catcher</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"shaman_stone": {
 			"id": 69,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Shaman_Stone\">Shaman Stone</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Shaman_Stone\">Shaman Stone</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"soul_eater": {
 			"id": 70,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Soul_Eater\">Soul Eater</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Soul_Eater\">Soul Eater</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"dashmaster": {
 			"id": 71,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dashmaster\">Dashmaster</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dashmaster\">Dashmaster</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"sprintmaster": {
 			"id": 72,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Sprintmaster\">Sprintmaster</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Sprintmaster\">Sprintmaster</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"grubsong": {
 			"id": 73,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Grubsong\">Grubsong</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Grubsong\">Grubsong</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"grubberfly_s_elegy": {
 			"id": 74,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Grubberfly's_Elegy\">Grubberfly's Elegy</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Grubberfly's_Elegy\">Grubberfly's Elegy</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"fragile_heart": {
 			"id": 75,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Fragile_Heart\">Fragile Heart</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Fragile_Heart\">Fragile Heart</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"fragile_greed": {
 			"id": 76,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Fragile_Greed\">Fragile Greed</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Fragile_Greed\">Fragile Greed</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"fragile_strength": {
 			"id": 77,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Fragile_Strength\">Fragile Strength</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Fragile_Strength\">Fragile Strength</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"spell_twister": {
 			"id": 78,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Spell_Twister\">Spell Twister</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Spell_Twister\">Spell Twister</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"steady_body": {
 			"id": 79,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Steady_Body\">Steady Body</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Steady_Body\">Steady Body</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"heavy_blow": {
 			"id": 80,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Heavy_Blow\">Heavy Blow</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Heavy_Blow\">Heavy Blow</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"quick_slash": {
 			"id": 81,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Quick_Slash\">Quick Slash</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Quick_Slash\">Quick Slash</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"longnail": {
 			"id": 82,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Longnail\">Longnail</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Longnail\">Longnail</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"mark_of_pride": {
 			"id": 83,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Mark_of_Pride\">Mark of Pride</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Mark_of_Pride\">Mark of Pride</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"fury_of_the_fallen": {
 			"id": 84,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Fury_of_the_Fallen\">Fury of the Fallen</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Fury_of_the_Fallen\">Fury of the Fallen</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"thorns_of_agony": {
 			"id": 85,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Thorns_of_Agony\">Thorns of Agony</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Thorns_of_Agony\">Thorns of Agony</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"baldur_shell": {
 			"id": 86,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Baldur_Shell\">Baldur Shell</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Baldur_Shell\">Baldur Shell</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"flukenest": {
 			"id": 87,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Flukenest\">Flukenest</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Flukenest\">Flukenest</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"defender_s_crest": {
 			"id": 88,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Defender's_Crest\">Defender's Crest</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Defender's_Crest\">Defender's Crest</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"glowing_womb": {
 			"id": 89,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Glowing_Womb\">Glowing Womb</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Glowing_Womb\">Glowing Womb</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"quick_focus": {
 			"id": 90,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Quick_Focus\">Quick Focus</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Quick_Focus\">Quick Focus</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"deep_focus": {
 			"id": 91,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Deep_Focus\">Deep Focus</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Deep_Focus\">Deep Focus</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"lifeblood_heart": {
 			"id": 92,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Lifeblood_Heart\">Lifeblood Heart</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Lifeblood_Heart\">Lifeblood Heart</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"lifeblood_core": {
 			"id": 93,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Lifeblood_Core\">Lifeblood Core</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Lifeblood_Core\">Lifeblood Core</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"joni_s_blessing": {
 			"id": 94,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Joni's_Blessing\">Joni's Blessing</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Joni's_Blessing\">Joni's Blessing</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"hiveblood": {
 			"id": 95,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Hiveblood\">Hiveblood</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Hiveblood\">Hiveblood</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"spore_shroom": {
 			"id": 96,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Spore_Shroom\">Spore Shroom</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Spore_Shroom\">Spore Shroom</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"sharp_shadow": {
 			"id": 97,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Sharp_Shadow\">Sharp Shadow</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Sharp_Shadow\">Sharp Shadow</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"shape_of_unn": {
 			"id": 98,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Shape_of_Unn\">Shape of Unn</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Shape_of_Unn\">Shape of Unn</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"nailmaster_s_glory": {
 			"id": 99,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Nailmaster's_Glory\">Nailmaster's Glory</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Nailmaster's_Glory\">Nailmaster's Glory</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"weaversong": {
 			"id": 100,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Weaversong\">Weaversong</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Weaversong\">Weaversong</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"dream_wielder": {
 			"id": 101,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dream_Wielder\">Dream Wielder</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dream_Wielder\">Dream Wielder</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"dreamshield": {
 			"id": 102,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dreamshield\">Dreamshield</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dreamshield\">Dreamshield</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"grimmchild_carefree_melody": {
 			"id": 103,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Grimmchild\">Grimmchild</a> / <a href=\"https://hollowknight.fandom.com/wiki/Carefree_Melody\">Carefree Melody</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Grimmchild\">Grimmchild</a> / <a href=\"https://hollowknight.wiki/w/Carefree_Melody\">Carefree Melody</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"kingsoul_void_heart": {
 			"id": 104,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Kingsoul\">Kingsoul</a> / <a href=\"https://hollowknight.fandom.com/wiki/Void_Heart\">Void Heart</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Kingsoul\">Kingsoul</a> / <a href=\"https://hollowknight.wiki/w/Void_Heart\">Void Heart</a>",
 			"icon": "charm.png",
 			"percent": 1
 		}
@@ -600,57 +600,57 @@
 	"dreamers": {
 		"lurien_the_watcher": {
 			"id": 108,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dreamers#Lurien_the_Watcher\">Lurien the Watcher</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dreamers#Lurien_the_Watcher\">Lurien the Watcher</a>",
 			"percent": 1
 		},
 		"monomon_the_teacher": {
 			"id": 109,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dreamers#Monomon_the_Teacher\">Monomon the Teacher</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dreamers#Monomon_the_Teacher\">Monomon the Teacher</a>",
 			"percent": 1
 		},
 		"herrah_the_beast": {
 			"id": 110,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Dreamers#Herrah_the_Beast\">Herrah the Beast</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Dreamers#Herrah_the_Beast\">Herrah the Beast</a>",
 			"percent": 1
 		},
 		"galien": {
 			"id": 111,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Galien\">Galien</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Galien\">Galien</a>",
 			"percent": 1
 		},
 		"marmu": {
 			"id": 112,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Marmu\">Marmu</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Marmu\">Marmu</a>",
 			"percent": 1
 		},
 		"markoth": {
 			"id": 113,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Markoth\">Markoth</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Markoth\">Markoth</a>",
 			"percent": 1
 		},
 		"xero": {
 			"id": 114,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Xero\">Xero</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Xero\">Xero</a>",
 			"percent": 1
 		},
 		"no_eyes": {
 			"id": 115,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/No_Eyes\">No Eyes</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/No_Eyes\">No Eyes</a>",
 			"percent": 1
 		},
 		"elder_hu": {
 			"id": 116,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Elder_Hu\">Elder Hu</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Elder_Hu\">Elder Hu</a>",
 			"percent": 1
 		},
 		"gorb": {
 			"id": 117,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Gorb\">Gorb</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Gorb\">Gorb</a>",
 			"percent": 1
 		},
 		"nightmare_king_grimm": {
 			"id": 118,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Nightmare_King_Grimm\">Nightmare King Grimm</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Nightmare_King_Grimm\">Nightmare King Grimm</a>",
 			"percent": 1
 		}
 	},
@@ -662,22 +662,22 @@
 		},
 		"pantheon_of_the_master": {
 			"id": 120,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Pantheon_of_the_Master\">Pantheon of the Master</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Pantheon_of_the_Master\">Pantheon of the Master</a>",
 			"percent": 1
 		},
 		"pantheon_of_the_artist": {
 			"id": 121,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Pantheon_of_the_Artist\">Pantheon of the Artist</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Pantheon_of_the_Artist\">Pantheon of the Artist</a>",
 			"percent": 1
 		},
 		"pantheon_of_the_sage": {
 			"id": 122,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Pantheon_of_the_Sage\">Pantheon of the Sage</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Pantheon_of_the_Sage\">Pantheon of the Sage</a>",
 			"percent": 1
 		},
 		"pantheon_of_the_knight": {
 			"id": 123,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Pantheon_of_the_Knight\">Pantheon of the Knight</a>",
+			"name": "<a href=\"https://hollowknight.wiki/w/Pantheon_of_the_Knight\">Pantheon of the Knight</a>",
 			"percent": 1
 		}
 	}
